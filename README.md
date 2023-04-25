@@ -12,7 +12,7 @@ Creating a website and to interact with users.
   - JavaScript
   - PHP
   - MySQL
-  - Roblox
+  - Roblox & Roblox Studio
     
 
 * ### Installation steps
