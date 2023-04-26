@@ -1,6 +1,8 @@
 # Period Tracker
 
-Live demo [https://electricg.github.io/period-tracker/](https://electricg.github.io/period-tracker/)
+Easy [https://www.roblox.com/games/13210792403/)
+Medium [https://www.roblox.com/games/13182450648/)
+Difficult [https://www.roblox.com/games/13170779400/)
 
 ## Why
 
